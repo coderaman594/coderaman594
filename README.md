@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman Suryawanshi
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming,gaming
 - 🌱 I’m currently learning js modern frameworks
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me ? suryawanshi.aman1994@gmail.com or +918962509957
